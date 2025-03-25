@@ -8,3 +8,5 @@ roderickchan/debug_pwn_env:16.04-2.23-0ubuntu11.3-20240412
 roderickchan/debug_pwn_env:18.04-2.27-3ubuntu1.6-20240422
 roderickchan/debug_pwn_env:24.04-2.39-0ubuntu8.3-20240922
 roderickchan/debug_pwn_env:20.04-2.31-0ubuntu9.16-20240601
+
+th3s/pwn-env:ubuntu-18.04
